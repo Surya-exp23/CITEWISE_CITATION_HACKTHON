@@ -1,4 +1,5 @@
 """POST /ingest/demo, POST /ingest/csv, GET /ingest/jobs/{id}."""
+import re
 import io
 import itertools
 import uuid
@@ -46,20 +47,28 @@ def _parse_csv(content: bytes):
     def work_key(title, doi):
         return f"doi:{str(doi).strip().lower()}" if pd.notna(doi) and str(doi).strip() else f"title:{str(title).strip().lower()[:60]}"
 
-    def parse_authors(cell):
+    _ROR_RE = re.compile(r"https?://ror\.org/([0-9a-z]{9})")
+
+    def parse_authors(cell, affil_cell=None):
         names = [n.strip() for n in str(cell).split(";") if n.strip()] if pd.notna(cell) else []
+        affils = [a.strip() for a in str(affil_cell).split(";")] if pd.notna(affil_cell) else []
         out = []
         for i, name in enumerate(names):
             parts = name.split()
+            aff = affils[i] if i < len(affils) else ""
+            m = _ROR_RE.search(aff or "")
+            ror = f"https://ror.org/{m.group(1)}" if m else None
+            inst_name = _ROR_RE.sub("", aff).strip(" -") or None
             out.append({
                 "openalex_id": None, "orcid": None, "display_name": name,
                 "last_name": parts[-1] if parts else "", "first_name": parts[0] if parts else "",
                 "name_key": None,
                 "position": "first" if i == 0 else ("last" if i == len(names) - 1 else "middle"),
-                "institution_ror": None, "institution_name": None, "country_code": None,
-                "raw_affiliation": None,
+                "institution_ror": ror, "institution_name": inst_name, "country_code": None,
+                "raw_affiliation": aff or None,
             })
         return out
+
 
     def add_work(side: str, rec: dict, idx: int):
         title = rec.get(f"{side}_title")
@@ -73,15 +82,22 @@ def _parse_csv(content: bytes):
             except (ValueError, TypeError):
                 year = None
                 errors.append({"row": idx, "message": f"bad {side}_year"})
+            doi = str(rec[f"{side}_doi"]).strip() if pd.notna(rec.get(f"{side}_doi")) else None
+            # medRxiv/bioRxiv DOIs (10.1101/…) are preprints even without a venue column
+            is_preprint = bool(doi and doi.lower().startswith("10.1101/"))
             works[key] = {
                 "record_id": f"CSV-{side}-{len(works) + 1}",
                 "title": str(title).strip(),
-                "doi": str(rec[f"{side}_doi"]).strip() if pd.notna(rec.get(f"{side}_doi")) else None,
+                "doi": doi,
                 "pmid": None, "pmcid": None, "year": year, "venue": None,
-                "pub_type": "article", "is_preprint": False, "is_retracted": False,
-                "mesh_terms": [], "source": "csv", "retrieved_at": None, "is_synthetic": False,
-                "openalex_id": None, "authors": parse_authors(rec.get(f"{side}_authors")),
+                "pub_type": "preprint" if is_preprint else "article",
+                "is_preprint": is_preprint, "is_retracted": False,
+                "mesh_terms": [], "source": "medrxiv" if is_preprint else "csv",
+                "retrieved_at": None, "is_synthetic": False,
+                "openalex_id": None,
+                "authors": parse_authors(rec.get(f"{side}_authors"), rec.get(f"{side}_affiliations")),
             }
+
         return works[key]["record_id"]
 
     for idx, rec in enumerate(df.to_dict("records"), start=2):  # 1-based + header

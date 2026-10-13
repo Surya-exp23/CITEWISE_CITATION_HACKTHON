@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { api } from "../lib/api";
 import PipelineStepper from "../components/PipelineStepper";
+import IngestSummary from "../components/IngestSummary";
 import { ErrorBox, SectionTitle } from "../components/ui";
 
 const EXPECTED_COLUMNS = [
@@ -98,6 +99,7 @@ export default function Ingest() {
 
       {error && <ErrorBox message={error} />}
       {job && <PipelineStepper job={job} />}
+      {job && <IngestSummary job={job} />}
     </div>
   );
 }

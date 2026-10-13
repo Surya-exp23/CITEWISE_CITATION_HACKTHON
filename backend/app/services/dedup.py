@@ -681,10 +681,13 @@ def resolve_institutions(session, raw_works: list | None = None, ror_aliases: di
             continue
         for a in rw.get("authors") or []:
             author = None
-            for k in (a.get("openalex_id"), a.get("orcid"), a.get("name_key")):
+    # name_key may be missing on raw dicts (_prepare_record fills it on a copy)
+            fallback_key = author_key(a.get("last_name") or "", a.get("first_name") or "")
+            for k in (a.get("openalex_id"), a.get("orcid"), a.get("name_key") or fallback_key):
                 if k and k in by_id_key:
                     author = by_id_key[k]
                     break
+
             if not author:
                 continue
             ah = authorship_map.get((work_id, author.id))
