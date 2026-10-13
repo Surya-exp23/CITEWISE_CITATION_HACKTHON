@@ -1,0 +1,23 @@
+fastapi
+uvicorn[standard]
+pydantic>=2
+pydantic-settings
+sqlalchemy>=2
+python-multipart
+httpx
+tenacity
+pandas
+rapidfuzz
+unidecode
+lxml
+pysbd
+networkx
+qrcode[pil]
+reportlab
+jinja2
+pytest
+pytest-asyncio
+groq
+# Optional (needed only once, to precompute embeddings for the offline demo):
+# sentence-transformers
+# torch

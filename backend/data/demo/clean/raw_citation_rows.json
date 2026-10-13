@@ -1,0 +1,6743 @@
+[
+ {
+  "raw_citing_record_id": "W2",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W3",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W5",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W6",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W6",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W6",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W6",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W7",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W9",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W13",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W15",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W16",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W30",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W31",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W32",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W37",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W38",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W42",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W49",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W52",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W54",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W55",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W56",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W59",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W61",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W63",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W64",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W66",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W69",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W70",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W71",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W72",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W74",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W77",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W80",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W84",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W85",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W86",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W89",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W90",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W92",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W94",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W95",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W96",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W97",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W97",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W98",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W100",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W101",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W101",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W102",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W107",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W108",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W110",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W111",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W112",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W114",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W114",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W115",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W116",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W118",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W119",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W120",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W120",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W120",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W120",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W121",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W121",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W123",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W125",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W125",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W126",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W127",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W128",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W129",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W129",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W129",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W130",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W130",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W130",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W132",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W133",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W134",
+  "raw_cited_record_id": "W8",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W134",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W135",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W136",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W137",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W138",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W139",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W139",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W140",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W141",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W142",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W143",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W144",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W146",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W147",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W148",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W148",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W149",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W150",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W151",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W152",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W153",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W154",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W154",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W154",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W155",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W155",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W155",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W156",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W157",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W160",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W161",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W162",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W163",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W164",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W165",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W166",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W168",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W168",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W169",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W170",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W170",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W170",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W170",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W171",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W171",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W171",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W172",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W172",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W172",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W172",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W172",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W173",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W174",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W174",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W175",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W176",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W178",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W178",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W178",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W179",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W180",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W181",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W182",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W183",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W184",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W185",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W186",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W186",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W187",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W187",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W188",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W189",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W190",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W191",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W192",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W192",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W192",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W193",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W194",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W195",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W196",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W197",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W198",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W199",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W199",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W200",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W200",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W200",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W201",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W203",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W203",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W204",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W205",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W206",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W207",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W208",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W209",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W210",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W211",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W211",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W212",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W213",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W214",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W215",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W216",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W217",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W219",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W220",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W221",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W222",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W222",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W223",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W223",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W223",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W224",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W225",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W225",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W226",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W226",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W227",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W227",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W227",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W228",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W229",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W230",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W230",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W231",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W232",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W233",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W234",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W235",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W236",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W237",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W238",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W239",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W239",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W239",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W240",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W241",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W242",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W242",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W243",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W244",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W245",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W245",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W246",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W247",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W247",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W247",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W248",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W249",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W249",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W251",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W252",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W253",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W253",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W254",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W254",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W254",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W254",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W255",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W255",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W256",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W256",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W256",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W257",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W258",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W259",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W260",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W261",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W262",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W262",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W262",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W263",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W263",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W264",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W264",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W264",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W264",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W265",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W265",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W266",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W268",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W269",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W270",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W271",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W272",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W273",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W274",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W275",
+  "raw_cited_record_id": "W17",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W276",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W277",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W278",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W279",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W280",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W281",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W282",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W283",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W284",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W284",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W285",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W286",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W287",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W288",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W289",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W289",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W289",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W289",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W289",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W289",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W290",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W291",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W292",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W293",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W294",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W295",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W296",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W297",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W298",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W299",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W299",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W300",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W301",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W301",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W302",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W302",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W303",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W303",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W304",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W305",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W305",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W306",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W307",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W307",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W307",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W308",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W309",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W310",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W311",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W312",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W312",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W314",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W315",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W316",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W317",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W317",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W318",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W319",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W320",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W320",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W320",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W320",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W320",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W321",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W322",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W323",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W324",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W324",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W324",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W325",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W326",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W326",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W326",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W327",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W327",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W327",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W329",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W329",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W329",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W329",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W330",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W331",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W331",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W332",
+  "raw_cited_record_id": "W158",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W333",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W334",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W335",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W336",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W336",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W337",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W337",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W337",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W337",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W339",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W340",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W341",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W341",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W342",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W344",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W345",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W346",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W347",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W348",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W350",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W351",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W352",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W352",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W352",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W352",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W352",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W352",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W353",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W355",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W356",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W357",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W358",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W359",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W360",
+  "raw_cited_record_id": "W104",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W361",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W362",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W364",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W365",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W366",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W367",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W368",
+  "raw_cited_record_id": "W117",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W370",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W370",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W370",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W370",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W371",
+  "raw_cited_record_id": "W48",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W372",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W373",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W373",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W373",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W374",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W374",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W374",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W374",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W375",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W375",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W375",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W376",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W377",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W378",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W379",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W380",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W381",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W382",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W383",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W384",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W384",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W385",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W386",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W387",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W388",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W389",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W390",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W391",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W391",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W392",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W393",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W394",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W395",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W396",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W397",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W398",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W399",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W400",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W401",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W402",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W403",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W404",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W405",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W406",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W407",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W408",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W409",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W410",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W411",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W412",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W413",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W414",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W415",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W416",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W416",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W416",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W417",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W418",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W419",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W420",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W421",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W422",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W423",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W424",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W425",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W426",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W427",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W428",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W429",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W430",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W431",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W432",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W432",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W432",
+  "raw_cited_record_id": "W170",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W434",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W436",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W436",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W437",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W438",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W441",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W441",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W442",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W442",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W443",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W444",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W445",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W446",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W447",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W448",
+  "raw_cited_record_id": "W45",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W449",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W450",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W451",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W452",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W452",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W452",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W453",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W454",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W455",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W456",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W457",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W459",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W460",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W462",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W463",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W465",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W465",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W466",
+  "raw_cited_record_id": "W262",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W467",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W468",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W469",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W470",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W471",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W472",
+  "raw_cited_record_id": "W432",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W473",
+  "raw_cited_record_id": "W129",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W474",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W475",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W476",
+  "raw_cited_record_id": "W349",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W477",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W478",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W479",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W482",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W483",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W484",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W485",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W487",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W488",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W489",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W490",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W491",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W492",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W493",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W494",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W495",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W496",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W497",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W498",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W500",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W501",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W502",
+  "raw_cited_record_id": "W65",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W503",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W504",
+  "raw_cited_record_id": "W88",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W505",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W506",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W507",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W508",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W508",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W509",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W511",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W512",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W513",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W514",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W515",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W516",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W517",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W518",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W519",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W520",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W522",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W523",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W524",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W525",
+  "raw_cited_record_id": "W186",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W525",
+  "raw_cited_record_id": "W230",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W526",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W527",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W528",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W529",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W530",
+  "raw_cited_record_id": "W354",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W531",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W532",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W533",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W534",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W535",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W536",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W537",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W538",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W539",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W540",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W541",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W542",
+  "raw_cited_record_id": "W229",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W543",
+  "raw_cited_record_id": "W177",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W544",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W545",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W546",
+  "raw_cited_record_id": "W254",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W547",
+  "raw_cited_record_id": "W267",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W548",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W549",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W551",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W552",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W553",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W554",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W555",
+  "raw_cited_record_id": "W439",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W556",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W558",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W559",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W560",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W561",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W562",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W563",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W564",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W565",
+  "raw_cited_record_id": "W369",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W566",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W567",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W568",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W569",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W570",
+  "raw_cited_record_id": "W79",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W571",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W572",
+  "raw_cited_record_id": "W167",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W572",
+  "raw_cited_record_id": "W248",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W573",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W574",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W575",
+  "raw_cited_record_id": "W155",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W575",
+  "raw_cited_record_id": "W247",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W576",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W577",
+  "raw_cited_record_id": "W251",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W578",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W579",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W580",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W580",
+  "raw_cited_record_id": "W412",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W581",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W582",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W583",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W584",
+  "raw_cited_record_id": "W388",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W585",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W586",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W587",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W588",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W589",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W590",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W590",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W591",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W592",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W593",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W594",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W595",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W596",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W597",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W598",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W599",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W600",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W601",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W602",
+  "raw_cited_record_id": "W21",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W603",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W604",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W605",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W606",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W607",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W608",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W609",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W610",
+  "raw_cited_record_id": "W249",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W611",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W612",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W613",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W614",
+  "raw_cited_record_id": "W441",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W615",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W615",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W616",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W617",
+  "raw_cited_record_id": "W19",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W618",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W619",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W621",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W622",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W623",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W624",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W625",
+  "raw_cited_record_id": "W568",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W626",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W627",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W628",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W630",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W631",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W632",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W633",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W634",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W635",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W637",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W638",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W639",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W640",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W641",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W642",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W642",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W643",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W644",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W646",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W647",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W648",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W649",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W650",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W651",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W652",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W653",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W654",
+  "raw_cited_record_id": "W542",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W654",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W655",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W656",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W657",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W658",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W659",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W660",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W661",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W662",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W663",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W664",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W665",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W667",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W668",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W669",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W670",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W671",
+  "raw_cited_record_id": "W567",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W672",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W673",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W674",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W675",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W676",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W677",
+  "raw_cited_record_id": "W629",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W678",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W679",
+  "raw_cited_record_id": "W510",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W680",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W681",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W682",
+  "raw_cited_record_id": "W124",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W683",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W684",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W685",
+  "raw_cited_record_id": "W620",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W686",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W687",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W688",
+  "raw_cited_record_id": "W603",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W689",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W690",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W691",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W692",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W693",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W694",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W695",
+  "raw_cited_record_id": "W666",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ },
+ {
+  "raw_citing_record_id": "W696",
+  "raw_cited_record_id": "W636",
+  "row_kind": "reference_entry",
+  "context_sentence": null,
+  "section": null,
+  "source": "openalex",
+  "is_synthetic": false
+ }
+]

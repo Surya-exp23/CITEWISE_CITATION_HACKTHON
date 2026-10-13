@@ -1,0 +1,50 @@
+{
+ "institution": {
+  "ror_id": "https://ror.org/02dwcqs71",
+  "openalex_id": "https://openalex.org/I63739035",
+  "name": "All India Institute of Medical Sciences",
+  "country_code": "IN"
+ },
+ "researchers": [
+  {
+   "author_key": "A1",
+   "openalex_id": "https://openalex.org/A5018621533",
+   "display_name": "Nikhil Tandon",
+   "orcid": "https://orcid.org/0000-0003-4604-1986"
+  },
+  {
+   "author_key": "A2",
+   "openalex_id": "https://openalex.org/A5000530935",
+   "display_name": "Sameer Bakhshi",
+   "orcid": "https://orcid.org/0000-0001-9367-4407"
+  },
+  {
+   "author_key": "A3",
+   "openalex_id": "https://openalex.org/A5015474583",
+   "display_name": "Manjari Tripathi",
+   "orcid": "https://orcid.org/0000-0003-2201-5644"
+  },
+  {
+   "author_key": "A4",
+   "openalex_id": "https://openalex.org/A5039572099",
+   "display_name": "Rakesh Lodha",
+   "orcid": "https://orcid.org/0000-0003-2608-1163"
+  },
+  {
+   "author_key": "A5",
+   "openalex_id": "https://openalex.org/A5066444862",
+   "display_name": "Peush Sahni",
+   "orcid": "https://orcid.org/0000-0002-6910-062X"
+  }
+ ],
+ "fetched_at": "2026-10-12T19:44:07Z",
+ "stats": {
+  "works": 696,
+  "authors": 10421,
+  "institutions": 2877,
+  "authorships": 18299,
+  "raw_rows": 749,
+  "retracted_works": 0,
+  "preprints": 0
+ }
+}

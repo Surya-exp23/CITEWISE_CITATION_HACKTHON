@@ -1,0 +1,1605 @@
+{
+  "expected_merges": [
+    {
+      "record_ids": [
+        "W510",
+        "DUP1"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W124",
+        "DUP2"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W441",
+        "DUP3"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W186",
+        "DUP4"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W155",
+        "DUP5"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W170",
+        "DUP6"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W117",
+        "DUP7"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W254",
+        "DUP8"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W603",
+        "DUP9"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W247",
+        "DUP10"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W167",
+        "DUP11"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W248",
+        "DUP12"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W262",
+        "DUP13"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W262",
+        "DUP14"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W369",
+        "DUP15"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W412",
+        "DUP16"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W412",
+        "DUP17"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W65",
+        "DUP18"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W129",
+        "DUP19"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W129",
+        "DUP20"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W88",
+        "DUP21"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W432",
+        "DUP22"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W249",
+        "DUP23"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W568",
+        "DUP24"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W568",
+        "DUP25"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W8",
+        "DUP26"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W8",
+        "DUP27"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W567",
+        "DUP28"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W567",
+        "DUP29"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W354",
+        "DUP30"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W354",
+        "DUP31"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W542",
+        "DUP32"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W542",
+        "DUP33"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W655",
+        "DUP34"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W115",
+        "DUP35"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W26",
+        "DUP36"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W282",
+        "DUP37"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W251",
+        "DUP38"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W251",
+        "DUP39"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W229",
+        "DUP40"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W143",
+        "DUP41"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W105",
+        "DUP42"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W559",
+        "DUP43"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W90",
+        "DUP44"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W90",
+        "DUP45"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W605",
+        "DUP46"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W433",
+        "DUP47"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W33",
+        "DUP48"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W33",
+        "DUP49"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W31",
+        "DUP50"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W31",
+        "DUP51"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W96",
+        "DUP52"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W224",
+        "DUP53"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W239",
+        "DUP54"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W518",
+        "DUP55"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W518",
+        "DUP56"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W617",
+        "DUP57"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W28",
+        "DUP58"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W575",
+        "DUP59"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W204",
+        "DUP60"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W666",
+        "DUP61"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W688",
+        "DUP62"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W430",
+        "DUP63"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W226",
+        "DUP64"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W460",
+        "DUP66"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W460",
+        "DUP67"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W604",
+        "DUP68"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W285",
+        "DUP69"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W7",
+        "DUP70"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W164",
+        "DUP71"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W685",
+        "DUP72"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W685",
+        "DUP73"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W349",
+        "DUP74"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W668",
+        "DUP75"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W668",
+        "DUP76"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W160",
+        "DUP77"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W221",
+        "DUP78"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W345",
+        "DUP79"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W345",
+        "DUP80"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W689",
+        "DUP81"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W689",
+        "DUP82"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W95",
+        "DUP83"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W390",
+        "DUP84"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W100",
+        "DUP85"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W368",
+        "DUP86"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W353",
+        "DUP87"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W353",
+        "DUP88"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W619",
+        "DUP89"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W271",
+        "DUP90"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W45",
+        "DUP91"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W471",
+        "DUP92"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W550",
+        "DUP93"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W128",
+        "DUP94"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W388",
+        "DUP95"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W81",
+        "DUP96"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W566",
+        "DUP97"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W301",
+        "DUP98"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W634",
+        "DUP99"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W371",
+        "DUP100"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W371",
+        "DUP101"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W592",
+        "DUP102"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W197",
+        "DUP103"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W72",
+        "DUP104"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W72",
+        "DUP105"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W47",
+        "DUP106"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W234",
+        "DUP107"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W234",
+        "DUP108"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W297",
+        "DUP109"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W82",
+        "DUP110"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W82",
+        "DUP111"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W680",
+        "DUP112"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W104",
+        "DUP113"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W657",
+        "DUP114"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W657",
+        "DUP115"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W663",
+        "DUP116"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W465",
+        "DUP117"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W374",
+        "DUP118"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W380",
+        "DUP119"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W364",
+        "DUP120"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W364",
+        "DUP121"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W215",
+        "DUP122"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W215",
+        "DUP123"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W274",
+        "DUP124"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W74",
+        "DUP125"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W176",
+        "DUP126"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W547",
+        "DUP127"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W692",
+        "DUP128"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W168",
+        "DUP129"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W474",
+        "DUP130"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W389",
+        "DUP131"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W277",
+        "DUP133"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W571",
+        "DUP134"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W225",
+        "DUP135"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W333",
+        "DUP136"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W58",
+        "DUP137"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W235",
+        "DUP138"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W684",
+        "DUP139"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W684",
+        "DUP140"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W324",
+        "DUP141"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W411",
+        "DUP142"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W275",
+        "DUP143"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W68",
+        "DUP144"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W217",
+        "DUP145"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W581",
+        "DUP146"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W581",
+        "DUP147"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W323",
+        "DUP148"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W218",
+        "DUP149"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W512",
+        "DUP150"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W512",
+        "DUP151"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W406",
+        "DUP152"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W470",
+        "DUP153"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W147",
+        "DUP154"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W272",
+        "DUP155"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W690",
+        "DUP156"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W253",
+        "DUP157"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W676",
+        "DUP158"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W676",
+        "DUP159"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W552",
+        "DUP160"
+      ],
+      "reason": "preprint_to_published"
+    },
+    {
+      "record_ids": [
+        "W270",
+        "DUP161"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W439",
+        "DUP162"
+      ],
+      "reason": "fuzzy_title"
+    },
+    {
+      "record_ids": [
+        "W409",
+        "DUP163"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W642",
+        "DUP164"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W614",
+        "DUP165"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W142",
+        "DUP166"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W142",
+        "DUP167"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W522",
+        "DUP168"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W506",
+        "DUP169"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W94",
+        "DUP170"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W94",
+        "DUP171"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W49",
+        "DUP172"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W49",
+        "DUP173"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "W113",
+        "DUP174"
+      ],
+      "reason": "exact_id"
+    },
+    {
+      "record_ids": [
+        "PUB1",
+        "PRE1"
+      ],
+      "reason": "preprint_to_published"
+    }
+  ],
+  "unique_citations_per_researcher": {
+    "A1": 116,
+    "A2": 50,
+    "A3": 48,
+    "A4": 74,
+    "A5": 50
+  },
+  "sample_classifications": [
+    {
+      "citing_record_id": "W229",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W230",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W230",
+      "cited_record_id": "W229",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W254",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W254",
+      "cited_record_id": "W229",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W254",
+      "cited_record_id": "W230",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W388",
+      "cited_record_id": "W254",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W524",
+      "cited_record_id": "W510",
+      "researcher_key": "A1",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W226",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "internal"
+    },
+    {
+      "citing_record_id": "W226",
+      "cited_record_id": "W230",
+      "researcher_key": "A1",
+      "expected": "internal"
+    },
+    {
+      "citing_record_id": "W281",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "internal"
+    },
+    {
+      "citing_record_id": "W562",
+      "cited_record_id": "W542",
+      "researcher_key": "A1",
+      "expected": "internal"
+    },
+    {
+      "citing_record_id": "W601",
+      "cited_record_id": "W542",
+      "researcher_key": "A1",
+      "expected": "internal"
+    },
+    {
+      "citing_record_id": "RETC1",
+      "cited_record_id": "RET1",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W115",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W211",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W216",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W225",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W227",
+      "cited_record_id": "W186",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W227",
+      "cited_record_id": "W229",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W227",
+      "cited_record_id": "W230",
+      "researcher_key": "A1",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W84",
+      "cited_record_id": "W17",
+      "researcher_key": "A2",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W107",
+      "cited_record_id": "W48",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W111",
+      "cited_record_id": "W19",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W13",
+      "cited_record_id": "W17",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W147",
+      "cited_record_id": "W17",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W16",
+      "cited_record_id": "W17",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W180",
+      "cited_record_id": "W17",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W2",
+      "cited_record_id": "W17",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W246",
+      "cited_record_id": "W48",
+      "researcher_key": "A2",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W667",
+      "cited_record_id": "W629",
+      "researcher_key": "A3",
+      "expected": "internal"
+    },
+    {
+      "citing_record_id": "W132",
+      "cited_record_id": "W45",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W142",
+      "cited_record_id": "W124",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W149",
+      "cited_record_id": "W124",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W176",
+      "cited_record_id": "W45",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W184",
+      "cited_record_id": "W124",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W187",
+      "cited_record_id": "W124",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W194",
+      "cited_record_id": "W177",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W217",
+      "cited_record_id": "W124",
+      "researcher_key": "A3",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W567",
+      "cited_record_id": "W568",
+      "researcher_key": "A4",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W568",
+      "cited_record_id": "W567",
+      "researcher_key": "A4",
+      "expected": "self"
+    },
+    {
+      "citing_record_id": "W102",
+      "cited_record_id": "W79",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W116",
+      "cited_record_id": "W79",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W138",
+      "cited_record_id": "W21",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W188",
+      "cited_record_id": "W79",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W215",
+      "cited_record_id": "W79",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W276",
+      "cited_record_id": "W349",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W32",
+      "cited_record_id": "W21",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W356",
+      "cited_record_id": "W349",
+      "researcher_key": "A4",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W127",
+      "cited_record_id": "W104",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W134",
+      "cited_record_id": "W104",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W134",
+      "cited_record_id": "W8",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W143",
+      "cited_record_id": "W104",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W15",
+      "cited_record_id": "W8",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W153",
+      "cited_record_id": "W104",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W179",
+      "cited_record_id": "W158",
+      "researcher_key": "A5",
+      "expected": "external"
+    },
+    {
+      "citing_record_id": "W190",
+      "cited_record_id": "W158",
+      "researcher_key": "A5",
+      "expected": "external"
+    }
+  ],
+  "traps_not_merged": [
+    [
+      "TRAP1",
+      "TRAP2"
+    ],
+    [
+      "TRAP3",
+      "TRAP4"
+    ],
+    [
+      "TRAP5",
+      "TRAP6"
+    ]
+  ],
+  "ring_authors": [
+    "SYN_A8",
+    "SYN_A9",
+    "SYN_A10",
+    "SYN_A11"
+  ],
+  "stats": {
+    "works": 896,
+    "authors": 10433,
+    "institutions": 2877,
+    "authorships": 24934,
+    "raw_rows": 1895,
+    "synthetic_rows": 1146,
+    "synthetic_works": 200,
+    "planted_duplicate_records": 151,
+    "mention_rows": 1024,
+    "traps": 3,
+    "ring_authors": 4,
+    "real_rows": 749,
+    "classification_coverage": {
+      "self": 13,
+      "internal": 6,
+      "external": 326
+    }
+  }
+}
